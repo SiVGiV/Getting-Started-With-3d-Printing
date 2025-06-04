@@ -1,4 +1,8 @@
 # 3D Printing Resources
+
+OrcaSlicer - an alternative to BambuStudio
+https://orcaslicer.com/
+
 ## Good, free model databases
 - https://makerworld.com/en
 - https://www.thingiverse.com/
